@@ -348,7 +348,7 @@
 <tspan x="10" y="5530">    │   │ │ │ │     │ │ └── array-find-index@1.0.2 </tspan>
 <tspan x="10" y="5546">    │   │ │ │ │     │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="5562">    │   │ │ │ │     ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="5578">    │   │ │ │ │     ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="5578">    │   │ │ │ │     ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="5594">    │   │ │ │ │     │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="5610">    │   │ │ │ │     │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="5626">    │   │ │ │ │     │ │ └── builtin-modules@1.1.1 </tspan>
