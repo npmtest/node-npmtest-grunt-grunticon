@@ -1,4 +1,7 @@
-# test coverage for  [grunt-grunticon (v2.3.1)](https://github.com/filamentgroup/grunticon)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-grunticon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-grunticon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-grunticon.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-grunticon)
+# npmtest-grunt-grunticon
+
+#### basic test coverage for  [grunt-grunticon (v2.3.1)](https://github.com/filamentgroup/grunticon)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-grunticon.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-grunticon) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-grunticon.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-grunticon)
+
 #### A mystical CSS icon solution
 
 [![NPM](https://nodei.co/npm/grunt-grunticon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-grunticon)
@@ -87,7 +90,8 @@
     "scripts": {
         "test": "grunt travis --verbose"
     },
-    "version": "2.3.1"
+    "version": "2.3.1",
+    "bin": {}
 }
 ```
 
